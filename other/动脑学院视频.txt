@@ -1,0 +1,137 @@
+[置顶]
+本群须知
+欢迎大家来到动脑学院，请大家改好群名片，方便沟通。
+格式：地区+名字+工作 
+注意：不要相信群内任何人的私聊消息，咨询请认准群管理，以免上当受骗。群内禁止私发链接，以免中了钓鱼网站上当受骗，请大家相互传达，请大家不要随意修改群名片，请大家配合。
+动脑学院每晚8.30分会有免费Java直播课程，
+地址：https://ke.qq.com/course/131889#tuin=aaabe3b4 
+赶紧免费报名体验吧！
+大家到时候可以来听。有什么疑问的话都可以问群里的管理员老师。
+1093人已读动脑学院［若兰老师］ 发表于 2017-09-25 17:57
+收起
+最新视频分享
+SSO单点登录原理与实现
+链接：https://pan.baidu.com/s/1ZEOPcSjTeti6C7xNGx5apg 密码：qsy1
+
+
+带你手写一个能够部署war包的Tomcat
+链接：https://pan.baidu.com/s/1RcyefTjRol33ShBjJ-YFog 密码：n2qf
+
+
+常见多线程并发协同问题处理
+链接：https://pan.baidu.com/s/1Zi_RuQtMDQuE9brqOsAJyQ 密码：npay
+
+
+从理论到实战，带你搞懂Java类加载机制
+链接：https://pan.baidu.com/s/1H40i5YgGG6-Ea_BEm4-vNg 密码：w062
+
+
+秒杀系统架构分析与实现
+链接：https://pan.baidu.com/s/1lUhqBBj7itHcQf8CzfWfXg 密码：ytg3
+收起
+69人已读动脑学院［若兰老师］ 发表于 1分钟前
+二月份视频分享
+Java并发之Fork-Join框架
+链接：https://pan.baidu.com/s/1ggBRFzH 密码：fqu5
+
+手把手玩转springcloud与docker
+链接：https://pan.baidu.com/s/1kWVxGl5 密码：r1t4
+
+高并发计算下常见并发协同问题的处理
+链接：https://pan.baidu.com/s/1i60tFPb 密码：51t5
+
+nginx高并发下的安全认证话题-让你的敏感数据不再裸奔
+链接：https://pan.baidu.com/s/1TCH7I0AZHjKLe8LgCptF_Q 密码：n6y6
+
+带你手写一个能够部署war包的Tomcat
+链接：https://pan.baidu.com/s/1U9kWcxflpA1zDMPr6J--CA 密码：2lb7
+收起
+566人已读动脑学院［若兰老师］ 发表于 03-13 14:37
+一月份视频分享
+架构师必备技能：数据库之手术刀——实战分库分表
+链接：https://pan.baidu.com/s/1eR44ol8 密码：62bu
+
+
+Java多线程编程实战——future模式的实际应用及jdk中对应
+链接：https://pan.baidu.com/s/1eSPdmYQ 密码：jy8y
+
+
+
+互联网电商系统难点解密，优雅实现超时订单自动关闭
+链接：https://pan.baidu.com/s/1eTA640M 密码：tf2d
+
+
+
+https与nginx安全认证
+链接：https://pan.baidu.com/s/1c33Pb48 密码：9cbj
+
+
+
+shiro源码分析
+链接：https://pan.baidu.com/s/1eT5h5F8 密码：g3ed
+收起
+446人已读动脑学院［若兰老师］ 发表于 02-07 17:17
+十二月份视频分享
+redis进阶之路-手把手带你写redis客户端
+链接：https://pan.baidu.com/s/1cpsn2e 密码：jftj
+
+互联网电商系统难点解密，优雅实现超时订单自动关闭
+链接：https://pan.baidu.com/s/1geOJ50R 密码：q1d1
+
+Get新技能！程序员也能玩转的集群监控
+链接：https://pan.baidu.com/s/1qYzEENa 密码：xml3
+
+互联网高级进阶篇nginx与docker如何实现高可用集群
+链接：https://pan.baidu.com/s/1dEMM2oL 密码：przl
+
+RPC框架原理和手动实现
+链接：https://pan.baidu.com/s/1qYmO7jI 密码：7cre
+
+redis分布式锁实现
+链接：https://pan.baidu.com/s/1jIDzdVC 密码：ekgr
+收起
+340人已读动脑学院［若兰老师］ 发表于 2017-12-27 15:40
+十一月份视频分享
+Zookeeper核心应用案例：Master选举原理剖析
+链接：http://pan.baidu.com/s/1mitFnOO 密码：klcy
+
+备战双十一，微服务+Docker构建不宕机的后端系统
+链接：http://pan.baidu.com/s/1bWt7Tc 密码：iski
+
+深入挖掘SpringCloud微服务防雪崩利器Hystrix
+链接：http://pan.baidu.com/s/1i5naIJb 密码：5nb8
+
+缓存架构解析
+链接：http://pan.baidu.com/s/1boXDEhh 密码：umwm
+
+解密HashMap底层原理 
+链接：http://pan.baidu.com/s/1jIlC2jk 密码：uy39
+
+程序员必备技能-开放API接口的鉴权处理
+链接：http://pan.baidu.com/s/1gftjXOf 密码：56tp
+收起
+259人已读动脑学院［若兰老师］ 发表于 2017-11-24 17:04
+
+
+
+
+
+10月视频分享
+互联网架构师必备技能-大数据分布式数据库Hbase链接：http://pan.baidu.com/s/1kULQesZ 密码：rk9s
+
+系统的安全卫士 企业级安全框架shiro源码分析
+链接：http://pan.baidu.com/s/1pL0Z1c3 密码：ayqn
+
+dubbo核心原理-rpc调用协议
+链接：http://pan.baidu.com/s/1skB41U9 密码：krly
+
+Java并发之Fork-Join框架
+链接：http://pan.baidu.com/s/1pLOasOF 密码：ajf1
+
+互联网应用必备技能 缓存技术全解析
+链接：http://pan.baidu.com/s/1qXRLQ0W 密码：2yg7
+
+架构师必备技能之持久层高并发架构设计，及实现案例剖析
+链接：http://pan.baidu.com/s/1hsIiXrI 密码：xh35
+收起
+140人已读动脑学院［若兰老师］ 发表于 2017-10-17 16:12

@@ -1,0 +1,11 @@
+#if (${PACKAGE_NAME} && ${PACKAGE_NAME} != "")package ${PACKAGE_NAME};#end
+#parse("File Header.java")
+
+/**
+* @Author: chenjt
+* @Description:
+* @Date: Created ${YEAR}-${MONTH}-${DAY} ${TIME}
+*/
+public class ${NAME} {
+
+}

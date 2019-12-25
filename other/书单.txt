@@ -1,0 +1,74 @@
+﻿书单
+
+算法书
+算法第四版
+算法导论  （有网易公开课的算法导论视频可以一起结合看）
+
+java书
+java核心技术卷一，卷二
+effective java
+java并发编程实战
+深入理解 Java 虚拟机-Jvm 高级特性与最佳实践
+
+linux书
+鸟哥的linux私房菜第一，第二卷（好书，但是篇幅大，也比较罗嗦，没时间不要看）
+linux命令行大全（此本和下面一本任选一本即可）
+Unix & Linux大学教程
+
+mysql书
+高性能mysql
+燕十八的mysql视频教程（非常好，有两部，一部入门的，一部高级的，看完对mysql就掌握很好了）
+
+redis书
+redis设计与实现
+燕十八的redis视频教程（很好）
+
+javascript书 （对javascript和html，css可以不用掌握那么深入，但要能做基本功能和看懂别人代码）
+javascript高级程序设计
+javascript权威指南
+锋利的jquery
+blue（石川）的javascript视频 （很好）
+
+html和css书
+head first html和css书
+
+设计模式
+head first设计模式
+
+spring书
+spring实战
+spring揭秘
+李兴华的 spring开发框架  视频
+
+springboot
+李兴华的 Spring Boot实战与原理分析视频课程  
+
+nginx书
+深入理解Nginx--模块开发与架构解析
+燕十八的nginx视频  （很好）
+
+tomcat书
+深入剖析tomcat
+
+架构和分布式  （这个比较深，先不看，比较有经验了再看）
+从PAXOS到ZOOKEEPER分布式一致性原理与实践
+大型网站技术架构：核心原理与案例分析
+大型网站系统与Java中间件实践
+
+多线程
+汪文君的多线程系列视频（共四部）（非常好，看完对多线程肯定了解比较深入了，这个要自己买）
+
+计算机体系结构
+深入理解计算机系统
+袁春风的计算机系统基础 两部视频（我没有，大学慕课上有，跟《深入理解计算机系统》结合一起看，《深入理解计算机系统》比较难理解）
+
+tcp/ip
+TCP/IP详解 卷1：协议  （了解tcp/ip基本概念、原理及流程即可）
+ 
+http
+http权威指南
+ 
+ 
+
+
+

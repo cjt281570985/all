@@ -1,0 +1,18 @@
+F:/jar/maven/apache-maven-3.3.9
+G:\repository\settings_bm_xm.xml
+G:\repository\jar
+
+
+G:\repository\repository_miaoqian\settings_idea.xml
+G:\repository\repository_miaoqian
+
+D:\Program Files\SlikSvn\bin\svn.exe
+
+
+d:\Program Files\Git\cmd\git.exe
+
+
+github.com
+..........
+
+

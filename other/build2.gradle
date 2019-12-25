@@ -1,0 +1,50 @@
+group 'com.cjt'
+version '1.0'
+
+apply plugin: 'java'
+apply plugin: 'war'
+apply plugin: 'idea'
+apply plugin: 'maven'
+
+sourceCompatibility = 1.8
+targetCompatibility = 1.8
+
+repositories {
+
+    maven{
+        name 'aliyun'
+        url 'http://maven.aliyun.com/nexus/content/groups/public'
+    }
+    mavenLocal()
+    mavenCentral()
+}
+
+//默认值
+sourceSets {
+    main {
+        java {
+            srcDir 'src/main/java'
+        }
+        resources {
+            srcDir 'src/main/resources'
+        }
+    }
+}
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.11'
+    //testCompile
+    compile (
+            "org.joda:joda-primitives:1.0",
+            "joda-time:joda-time:2.9.9",
+          //  "junit:junit:4.11"
+    )
+}
+
+tasks.withType(JavaCompile){
+    options.encoding = "UTF-8"
+}
+
+[compileJava, javadoc, compileTestJava]*.options*.encoding = "UTF-8"
+
+//gradle buildDependents
+//gradle dependencies jar

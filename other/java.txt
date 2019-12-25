@@ -1,0 +1,43 @@
+/**
+     * 替换手机中间4位
+     * @param mobile 目标字符串
+     * @return
+     */
+	public static String getDesensMobile(String mobile){
+		if(StringUtils.isNotBlank(mobile)){
+			mobile = mobile.replaceAll("(\\d{3})\\d{4}(\\d{4})", "$1****$2");
+		}
+		return mobile;
+	}
+
+System.out.println("15985857788".replaceAll("(\\d{3})(\\d{4})(\\d{4})", "$1****$2"));
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

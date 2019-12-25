@@ -1,0 +1,52 @@
+ifconfig eth0 192.168.182.2
+
+ls -i cjt.txt 查看i结点  硬链接的i结点是一样的
+
+mkdir -p a/b/c/t.txt
+
+cp -r .... 复制文件夹
+cp -p .... 保留文件属性
+
+touch abc.txt  创建文件
+
+cat -n a.txt  查看文件内容
+tac -n a.txt  倒过来显示...
+
+more   分页浏览
+less  paup pgDn 翻页  按/cjt 搜索 按n 接着往下找
+
+head -n 10 cjt.txt 显示前10行
+
+tail -n 5 cjt.txt   显示最后5行  不写默认10行
+tail -f  cjt.txt    查看日志变动,日志更改会再显示出来
+
+ln -s /etc/issue  /tmp issue.soft  创建软链接
+ln    /etc/issue  /tmp issue.soft  创建硬链接  同时更新
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
