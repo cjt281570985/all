@@ -1,8 +1,11 @@
-*
- * file: $NAME$
- * DATE: $DATE$
+/**
+ * @Author: jimmy
+ * @Description:
+ * @Date: Created ${YEAR}-${MONTH}-${DAY} ${TIME}
  **/
- $END$
+public class ${NAME} {
+
+}
 -----------------------------------------------------------
 listarr
 
